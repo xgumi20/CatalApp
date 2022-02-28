@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CatalApp</string>
+    <string name="facebook_app_id">283501573659468</string>
+    <string name="fb_login_protocol_scheme">fb283501573659468</string>
+    <string name="accSign"><u>Sign In</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <array name="spinner_category">
+        <item>All</item>
+        <item>Person</item>
+        <item>Arts</item>
+        <item>Anime</item>
+        <item>Manga</item>
+        <item>Music</item>
+        <item>Movie</item>
+        <item>Photography</item>
+        <item>Programming</item>
+    </array>
+
+    <array name="spinner_category_post">
+        <item>Arts</item>
+        <item>Anime</item>
+        <item>Manga</item>
+        <item>Music</item>
+        <item>Movie</item>
+        <item>Photography</item>
+        <item>Programming</item>
+    </array>
+</resources>
